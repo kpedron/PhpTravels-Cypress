@@ -1,5 +1,6 @@
 {
-    "integrationFolder": "cypress/tests/ui",
-    "viewportWidth": 1200,
-    "viewportHeight": 860
+    "testFiles": "**/*.feature",
+    "viewportWidth": 1300,
+    "viewportHeight": 960,
+    "chromeWebSecurity": false
 }
